@@ -2,6 +2,13 @@
 
 A new Flutter application.
 
+
+ ## :sunglasses:  Overview: :point_down:
+
+ <img src="https://github.com/tharunc/bcalc_app/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"/> <br>
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +21,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+---
+
+## Inspiration
+**My ultimate aim is to embrace global wellness and to enhance the virtue of our healthcare.**
+
+## What it does
+
+*BMI Calculator helps us keep an estimate of body fat and a good measure of patients' risk for diseases that can occur with overweight and obesity.
+
+## How we built it
+
+MADE WITH FLUTTER
+
