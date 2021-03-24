@@ -30,8 +30,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## What it does
 
-_BMI Calculator helps us keep an estimate of body fat and a good measure of patients' risk for diseases that can occur with overweight and obesity.
-_
+*BMI Calculator helps us keep an estimate of body fat and a good measure of patients' risk for diseases that can occur with overweight and obesity.*
+
 ## How we built it
 
 MADE WITH FLUTTER
